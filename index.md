@@ -1,16 +1,16 @@
 ---
-title: Homepage
+title: "Homepage"
 ---
 
 ## Dr. Nichola Naylor
 
 ### Introduction 
 
-![NN_BW](/images/NN_BW.png)
+![](NN_BW.png){width=250px}
 
 ### Antimicrobial Resistance
 
-I'm a Senior Health Economist that has been researching the burden (human and monetary) of Antimicrobial Resistance and Drug Resistant Infections for . I currently hold a Senior Infectious Disease Modeller post at Public Health England alongside an Honorary Research Fellow post at the London School of Hygiene and Tropical medicine, where I previously held a post-doc position. I've worked on national-level and global burden analyses, utilising literature review, statistical modelling and mathematical modelling methods.
+I'm a Senior Health Economist that has been researching the burden (human and monetary) of Antimicrobial Resistance and Drug Resistant Infections for six years, focusing on antibiotic resistant Gram-negative bacteria. I currently hold a Senior Infectious Disease Modeller post at Public Health England alongside an Honorary Research Fellow post at the London School of Hygiene and Tropical medicine, where I previously held a post-doc position. I've worked on national-level and global burden analyses, utilising literature review, statistical modelling and mathematical modelling methods. My current research streams attempt to estimate burden from both public health and One Health perspectives. 
 
 
 ### Health Economics & R
