@@ -2,14 +2,22 @@
 
 ### Introduction 
 
-![NN_BW](/images/NN_BW.png)
+![NN_BW](/images/NN_BW.png){height=50%, width=50%}
 
+### Antimicrobial Resistance
 
-I'm a Senior Health Economist researching the costs of Antimicrobial Resistance and Drug Resistant Infections. I currently hold a Senior Infectious Disease Modeller post at Public Health England alongside an Honorary Research Fellow post at the London School of Hygiene and Tropical medicine, where I previously held a post-doc position. 
+I'm a Senior Health Economist that has been researching the burden (human and monetary) of Antimicrobial Resistance and Drug Resistant Infections for . I currently hold a Senior Infectious Disease Modeller post at Public Health England alongside an Honorary Research Fellow post at the London School of Hygiene and Tropical medicine, where I previously held a post-doc position. I've worked on national-level and global burden analyses, utilising literature review, statistical modelling and mathematical modelling methods.
 
 
 ### Health Economics & R
 
-I'm keen on utilising R within health economics, pushing open-access and transparent modelling approaches. I'll be building this personal website to incorporate useful code and resources for this. For now please see the **Signposted
+I'm keen on utilising R within health economics, pushing open-access and transparent modelling approaches. I'll be building this personal website to incorporate useful code and resources for this. For now please see the website I co-created compiling health economics R packages:
 
 
+
+
+### Links:
+
+#CV 
+
+#Github
