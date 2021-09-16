@@ -6,7 +6,7 @@ title: Homepage
 
 ### Introduction 
 
-![NN_BW](/images/NN_BW.png){height=50%}{width=50%}
+![NN_BW](/images/NN_BW.png)
 
 ### Antimicrobial Resistance
 
