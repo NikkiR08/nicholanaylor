@@ -3,7 +3,7 @@
 
 ### Introduction 
 
-![](NN_BW.png){:width="25px"}
+![](NN_BW.png){:width="100px"}
 
 ### Antimicrobial Resistance
 
